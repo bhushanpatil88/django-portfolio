@@ -1,0 +1,14 @@
+body{
+    background-color: #79fd6d!important;
+}
+
+#profile_center{
+    text-align: center;
+}
+
+#profile_pic{
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+    margin: auto;
+}
